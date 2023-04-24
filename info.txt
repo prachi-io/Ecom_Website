@@ -1,0 +1,6 @@
+bcryptjs -> admin mana sab dekh sakta h but does not mean users ka password bhi dekhe so convert bcrypt
+jsonwebtoken -> token generate
+validator -> email wale feild me validate kar sake ki email hi h na sahi vo bhi
+nodemailer -> forget passowrd time mail bhejna
+cookie-parser -> token ko cookie me store karenge
+body-parser
